@@ -1,0 +1,19 @@
+
+---
+
+# ⚙️ **config.txt**
+
+```txt
+Project: Assignment 6 – Implementation of Multivariate Displays  
+Student Roll No: 23BAD082  
+
+Dataset Path: data/6.retail_business.csv  
+R Script Path: code/assignment6.R  
+Figures Output Folder: figures/  
+
+Software Used: RStudio  
+
+Libraries Used:
+- ggplot2
+- dplyr
+- GGally

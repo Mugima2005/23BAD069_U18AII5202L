@@ -56,6 +56,7 @@ AVERAGEX(
 A Grade Count =
 CALCULATE(COUNTROWS(StudentData), StudentData[Final_Grade] = "A")
 
+---
 2) Filters (Slicers)
 
 Implemented slicers for interactive filtering:

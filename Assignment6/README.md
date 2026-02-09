@@ -1,8 +1,6 @@
 # Assignment 6 – Implementation of Multivariate Displays
 
-## Student Details
-Roll No: 23BAD082  
-Course Code: U18AII5202L  
+
 
 ---
 
